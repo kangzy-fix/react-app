@@ -71,7 +71,7 @@ The project files and directories are organized as follows:
 
 ## Screenshots
 
-![User List Screenshot](path/to/your/screenshot.png)
+![image](https://github.com/kangzy-fix/react-app/assets/108343154/1bbf6fda-f44f-45b2-b19d-cf096f1beaec)
 
 
 ## Additional Notes
