@@ -25,6 +25,9 @@ Follow the steps below to get started with the project:
 3. Install the dependencies by running the following command:
     ```
      npm install
+     npm install react-loading-skeleton@3.3.1
+     npm install react-router@6.14.1
+     npm install react-router-dom@6.14.1
      npm install react-toastify
      npm install @fortawesome/react-fontawesome
      npm install @fortawesome/free-solid-svg-icons
